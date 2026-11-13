@@ -1,0 +1,7 @@
+- 👋 Hi, I'm Neha Yadav (@yneha3229)
+- 🎓 Final-year B.Tech student in Engineering Physics at IIT Bombay
+- 👀 I'm interested in machine learning, speech AI and LLM applications, and AI for cybersecurity
+- 🏆 Top 8 at ContextCon 03 (Techfest IIT Bombay × Crustdata) with [Proofroom](https://github.com/yneha3229/proofroom)
+- 💞️ I'm looking to collaborate on AI projects for Indian languages and audio, and on AI safety for security systems
+- 📫 How to reach me: yneha3229@gmail.com · [LinkedIn](https://www.linkedin.com/in/neha-yadav-202010280/)
+- ⚡ Fun fact: When I'm not training models, I'm painting or making a documentary on protest
